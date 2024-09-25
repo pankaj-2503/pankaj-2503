@@ -1,37 +1,40 @@
-# Hi there, I'm Pankaj Singh! 👋
+# Hi there, I'm [Pankaj Singh]! 
 
-I am a pre-graduate student pursuing B.Tech. in NSUT, New Delhi. My interests lie in web development, open-source contributions, problem-solving, and data science.
+I'm a final year BTech student at NSUT Delhi, aspiring to become a Software Engineer (SDE) or Full Stack Developer. I'm passionate about building innovative and user-friendly software solutions.
 
-## 💻 Technologies & Tools
+**Technical Skills:**
 
-- C++
-- JavaScript
-- Python
-- Node.js
-- npm
-- React
-- Express
-- MongoDB
+**Frontend:** 
 
-## 🚀 What I'm Currently Doing
+* **HTML**  -  [Icon for HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg) - Building the foundation of web pages.
+* **CSS**  -  [Icon for CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg) - Breathing life into web pages with styles.
+* **Bootstrap**  -  [Icon for Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bootstrap.svg) - Rapidly creating responsive layouts.
+* **JavaScript**  -  [Icon for JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg) - Interactivity and dynamic behavior.
+* **ReactJS**  -  [Icon for React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg) - Building efficient and scalable user interfaces.
+* **Next.js**  -  [Icon for Next.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextjs.svg) - Optimizing React applications for performance and SEO.
 
-- Learning and improving my skills in web development.
-- Actively contributing to open-source projects.
-- Solving coding problems to enhance my problem-solving skills.
-- Exploring the world of data science.
+**Backend:** ⚙️
 
-## 🌐 Connect with Me
+* **Express.js**  -  [Icon for Express](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg) - Building robust and scalable Node.js servers.
+* **Node.js**  -  [Icon for Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nodejs.svg) - JavaScript runtime environment for server-side development.
+* **MongoDB**  -  [Icon for MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg) - Flexible and scalable NoSQL database.
+* **Prisma**  -  [Icon for Prisma](https://www.prisma.io/assets/favicon.svg) - Type-safe ORM for efficient database interaction.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-singh-906790225/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pankajpj3103)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-pankaj-2503/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-URL-ff69b4?style=for-the-badge)](https://shiny-torrone-2303b3.netlify.app/)
+**Tools:** 
 
-## 📈 GitHub Stats
+* **Docker**  -  [Icon for Docker](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg) - Containerizing applications for deployment.
+* **Kubernetes**  -  [Icon for Kubernetes](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg) - Orchestrating containers for scaling and management.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankaj-2503&show_icons=true&theme=radical)
+**Programming Languages:** 
 
-## 🎉 Let's Collaborate!
+* **C++**  -  [Icon for C++](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg) - Efficient and low-level programming.
+* **JavaScript**  -  [Icon for JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg) - Versatile language for both frontend and backend.
+* **TypeScript**  -  [Icon for TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg) - Superset of JavaScript for type safety and maintainability.
 
-Feel free to reach out to me if you share similar interests or if you have exciting project ideas. Let's learn and grow together!
+**Data Structures & Algorithms:** 
 
+I have a strong grasp of fundamental data structures and algorithms, essential for problem-solving and efficient code.
+
+**I'm always eager to learn new skills and technologies!** 
+
+**Looking to connect?** Feel free to reach out to me!
